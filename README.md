@@ -1,4 +1,4 @@
-# A Collection of links and scripts, mainly to use on your ships
+A Collection of links and scripts, mainly to use on your ships
 
 # Warp Atlas
 https://github.com/Krengus/DU_ASTco/tree/main/WarpAtlas
