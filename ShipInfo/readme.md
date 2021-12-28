@@ -3,7 +3,6 @@
 Link core, screen(s) and hub(s) in any order.
 
 Features:
-
 up to 16 Fuel Tanks progress bar
 up to 4 Hubs progress bar (only if connected to board)
 Multiscreen, each screen can have his own tab
