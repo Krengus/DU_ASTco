@@ -10,3 +10,7 @@ Link core, screen(s) and hub(s) in any order.
 ### DESCRIPTION
 Various ship monitors and infos gathered in a single script. Uses LUA screen API.
 
+![image](https://user-images.githubusercontent.com/93654396/148534290-fe6fad69-54af-4dc9-9dfb-1d578c011862.png)
+![image](https://user-images.githubusercontent.com/93654396/148534426-2289b145-a301-4c33-a0b9-c5df9b4aefaa.png)
+
+
