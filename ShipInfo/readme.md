@@ -17,16 +17,20 @@ Various ship monitors and infos gathered in a single script. Uses LUA screen API
 
 ## CHANGELOG
 
-v0.22
+#v0.22
+
 updated repair screen
+
 minor UI updates
+
 added themes
 
-v0.21
+#v0.21
+
 added single hub screen
 
-v0.2
+#v0.2
 added repair screen
 
-v0.1
+#v0.1
 first version
