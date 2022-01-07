@@ -5,10 +5,10 @@
 
 
 
-### INSTALLATION
+## INSTALLATION
 Link core, screen(s) and hub(s) in any order.
 
-### DESCRIPTION
+## DESCRIPTION
 Various ship monitors and infos gathered in a single script. Uses LUA screen API.
 
 ![image](https://user-images.githubusercontent.com/93654396/148534290-fe6fad69-54af-4dc9-9dfb-1d578c011862.png)
@@ -17,20 +17,18 @@ Various ship monitors and infos gathered in a single script. Uses LUA screen API
 
 ## CHANGELOG
 
-#v0.22
-
+### v0.22
 updated repair screen
 
 minor UI updates
 
 added themes
 
-#v0.21
-
+### v0.21
 added single hub screen
 
-#v0.2
+### v0.2
 added repair screen
 
-#v0.1
+### v0.1
 first version
