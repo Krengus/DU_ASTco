@@ -19,6 +19,11 @@ support and feedback: https://discord.gg/BfnbtFyHrt
 
 ## CHANGELOG
 
+### v0.23
+Repair screen should now work correctly
+
+minor UI tweaks
+
 ### v0.22
 updated repair screen
 
