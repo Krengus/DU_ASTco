@@ -19,6 +19,13 @@ support and feedback: https://discord.gg/BfnbtFyHrt
 
 ## CHANGELOG
 
+### v0.24
+Repair screen: can now select damaged element shown with arrows
+
+fixed arrows not cleared
+
+minor UI updates
+
 ### v0.23
 Repair screen should now work correctly
 
