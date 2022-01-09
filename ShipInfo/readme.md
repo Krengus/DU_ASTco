@@ -13,8 +13,18 @@ Various ship monitors and infos gathered in a single script. Uses LUA screen API
 Idea is to keep a strong focus on performances and provide lots of customization options.
 support and feedback: https://discord.gg/BfnbtFyHrt
 
+Features:
+- Main screen with fuel tanks and hubs monitoring, tracks various weight info: container hubs, fuel, docked constructs and boarded players
+- Repair screen to help finding damaged elements
+- Docked construct screen to see and undock constructs
+- Boarded players screen to see and unboard players
+- Several themes to choose from, or you can create your own
+- Touch screen, multi-screen
+
 ![image](https://user-images.githubusercontent.com/93654396/148534290-fe6fad69-54af-4dc9-9dfb-1d578c011862.png)
 ![image](https://user-images.githubusercontent.com/93654396/148534426-2289b145-a301-4c33-a0b9-c5df9b4aefaa.png)
+
+
 
 
 ## CHANGELOG
