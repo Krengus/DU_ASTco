@@ -1,9 +1,6 @@
 
 # SHIP INFO
 ![image](https://user-images.githubusercontent.com/93654396/147752305-23552679-a878-47fc-a91f-f7456f565146.png)
-![image](https://user-images.githubusercontent.com/93654396/148389734-023f43b9-5e00-4485-8710-cd7aa151326d.png)
-
-
 
 ## INSTALLATION
 Link core, screen(s) and hub(s) in any order.
@@ -28,7 +25,6 @@ Features:
 
 ![image](https://user-images.githubusercontent.com/93654396/148816214-c93df243-e73f-4ee8-b8f2-36b6d7978b81.png)
 ![image](https://user-images.githubusercontent.com/93654396/148828635-d335d96a-49cf-42af-b739-a87f0670adb7.png)
-
 
 ## CHANGELOG
 
