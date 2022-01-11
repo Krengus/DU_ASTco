@@ -20,6 +20,7 @@ Features:
 - Databank for persistance (planned)
 - Elements control (ie doors, lights) (planned)
 - Boarded players screen to see and unboard players (planned)
+- Configuration screen (planned?)
 
 ![image](https://user-images.githubusercontent.com/93654396/148534290-fe6fad69-54af-4dc9-9dfb-1d578c011862.png)
 
