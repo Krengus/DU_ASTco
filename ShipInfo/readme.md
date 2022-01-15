@@ -14,13 +14,13 @@ Features:
 - Main screen with fuel tanks and hubs monitoring, tracks various weight info: container hubs, fuel, docked constructs and boarded players
 - Repair screen to help finding damaged elements
 - Docked construct screen to see and undock constructs
+- Boarded players screen to see and unboard players
+- Configuration screen
 - Several themes to choose from, or you can create your own
 - Touch screen, multi-screen
+- Databank for persistance
 
-- Databank for persistance (planned)
 - Elements control (ie doors, lights) (planned)
-- Boarded players screen to see and unboard players (planned)
-- Configuration screen (planned)
 - Repair duration calculations (planned)
 
 ![image](https://user-images.githubusercontent.com/93654396/148534290-fe6fad69-54af-4dc9-9dfb-1d578c011862.png)
