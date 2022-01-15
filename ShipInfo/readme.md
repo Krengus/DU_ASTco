@@ -3,7 +3,8 @@
 ![image](https://user-images.githubusercontent.com/93654396/147752305-23552679-a878-47fc-a91f-f7456f565146.png)
 
 ## INSTALLATION
-Link core, screen(s) and hub(s) in any order.
+Link core, databank, screen(s) and hub(s) in any order.
+Configure max capacity for hubs linked
 
 ## DESCRIPTION
 Various ship monitors and infos gathered in a single script. Uses LUA screen API.
