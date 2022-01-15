@@ -30,6 +30,17 @@ Features:
 
 ## CHANGELOG
 
+### v0.5
+Repaired repair screen!
+
+Added "Boarded Players Screen" to select and unboard players
+
+Added databank (required on start)
+
+Added "Configuration Screen", for now only with theme selection
+
+minor UI updates
+
 ### v0.3
 Added "Docked Contructs Screen" to select and undock constructs
 
