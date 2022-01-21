@@ -31,6 +31,9 @@ Features:
 
 ## SHIPINFO CHANGELOG
 
+### v0.51
+Fixed starting error on undamaged ship
+
 ### v0.5
 Repaired repair screen!
 
