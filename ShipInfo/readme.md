@@ -31,6 +31,11 @@ Features:
 
 ## SHIPINFO CHANGELOG
 
+### v0.6
+Replaced "Configuration Screen" with "Theme Screen" and more customization options (layout still wip)
+
+Databank should now store correctly configuration
+
 ### v0.51
 Fixed starting error on undamaged ship
 
