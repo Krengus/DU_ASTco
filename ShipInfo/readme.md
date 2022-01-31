@@ -31,6 +31,13 @@ Features:
 
 ## SHIPINFO CHANGELOG
 
+### v0.61
+Code cleaning
+
+Shortened / normalized tanks labels
+
+Fixed layout option
+
 ### v0.6
 Replaced "Configuration Screen" with "Theme Screen" and more customization options (layout still wip)
 
