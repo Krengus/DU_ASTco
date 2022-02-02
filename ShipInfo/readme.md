@@ -31,6 +31,9 @@ Features:
 
 ## SHIPINFO CHANGELOG
 
+### v0.62
+Fixed script crash when changing theme
+
 ### v0.61
 Code cleaning
 
