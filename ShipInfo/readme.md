@@ -21,9 +21,6 @@ Features:
 - Touch screen, multi-screen
 - Databank for persistance
 
-- Elements control (ie doors, lights) (planned)
-- Repair duration calculations (planned)
-
 ![image](https://user-images.githubusercontent.com/93654396/148534290-fe6fad69-54af-4dc9-9dfb-1d578c011862.png)
 ![image](https://user-images.githubusercontent.com/93654396/148816214-c93df243-e73f-4ee8-b8f2-36b6d7978b81.png)
 ![image](https://user-images.githubusercontent.com/93654396/148828635-d335d96a-49cf-42af-b739-a87f0670adb7.png)
