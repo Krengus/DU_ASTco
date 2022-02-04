@@ -2,8 +2,6 @@
 # SHIP INFO
 ![image](https://user-images.githubusercontent.com/93654396/152546655-1ff442e4-1ae7-434b-bbdd-e1bbcb886ff9.png)
 
-![image](https://user-images.githubusercontent.com/93654396/147752305-23552679-a878-47fc-a91f-f7456f565146.png)
-
 ## INSTALLATION
 Link core, databank, screen(s) and hub(s) in any order.
 Configure max capacity for hubs linked
@@ -27,7 +25,6 @@ Features:
 - Repair duration calculations (planned)
 
 ![image](https://user-images.githubusercontent.com/93654396/148534290-fe6fad69-54af-4dc9-9dfb-1d578c011862.png)
-
 ![image](https://user-images.githubusercontent.com/93654396/148816214-c93df243-e73f-4ee8-b8f2-36b6d7978b81.png)
 ![image](https://user-images.githubusercontent.com/93654396/148828635-d335d96a-49cf-42af-b739-a87f0670adb7.png)
 
