@@ -28,7 +28,7 @@ Features:
 ![image](https://user-images.githubusercontent.com/93654396/148816214-c93df243-e73f-4ee8-b8f2-36b6d7978b81.png)
 ![image](https://user-images.githubusercontent.com/93654396/148828635-d335d96a-49cf-42af-b739-a87f0670adb7.png)
 
-## SHIPINFO CHANGELOG
+## ShipInfo Changelog
 
 ### v0.62
 Fixed script crash when changing theme
