@@ -27,6 +27,9 @@ Features:
 
 ## ShipInfo Changelog
 
+### v0.63
+Fixed boarded players with empty names (now showing ID if name cannot be obtained)
+
 ### v0.62
 Fixed script crash when changing theme
 
