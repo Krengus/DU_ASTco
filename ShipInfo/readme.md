@@ -27,6 +27,11 @@ Features:
 
 ## ShipInfo Changelog
 
+### v0.64
+Added onscreen info for damaged elements
+Added screens activation on start
+Removed autostop if too far
+
 ### v0.63
 Fixed boarded players with empty names (now showing ID if name cannot be obtained)
 
