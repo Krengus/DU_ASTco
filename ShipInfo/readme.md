@@ -29,7 +29,9 @@ Features:
 
 ### v0.64
 Added onscreen info for damaged elements
+
 Added screens activation on start
+
 Removed autostop if too far
 
 ### v0.63
