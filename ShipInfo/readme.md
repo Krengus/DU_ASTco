@@ -28,7 +28,7 @@ Features:
 ## ShipInfo Changelog
 
 ### v0.66
-Added state of script on screens
+Added an indicator when script is not running
 
 ### v0.65
 Exit script when databank is out of range (previousy generated a script error)
