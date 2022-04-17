@@ -27,6 +27,9 @@ Features:
 
 ## ShipInfo Changelog
 
+### v0.67
+Added tanks size in labels
+
 ### v0.66
 Added an indicator when script is not running
 
