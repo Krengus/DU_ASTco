@@ -29,6 +29,7 @@ Features:
 
 ### v0.68
 Fix attempt to active / inactive state
+
 Reduced load when several screens plugged
 
 ### v0.67
