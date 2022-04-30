@@ -27,6 +27,13 @@ Features:
 
 ## ShipInfo Changelog
 
+### v0.69
+Replaced getTime with getArkTime
+
+Added an option to use tanks element labels instead of shortened names
+
+Fixed repair screen not showing damaged elements
+
 ### v0.68
 Fix attempt to active / inactive state
 
