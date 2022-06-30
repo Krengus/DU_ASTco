@@ -27,6 +27,9 @@ Features:
 
 ## ShipInfo Changelog
 
+### v0.7
+Updated for Mercury
+
 ### v0.69
 Replaced getTime with getArkTime
 
