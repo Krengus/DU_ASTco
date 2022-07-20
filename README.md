@@ -1,6 +1,7 @@
 # DU_ASTco
 A repository of scripts for Dual Universe
-
+![02](https://user-images.githubusercontent.com/98467522/151397975-02664bb7-019e-4942-b555-08e74ece98d9.jpg)
+# Official Dual Universe Lua Repository
 ![02](https://user-images.githubusercontent.com/93654396/179393311-a61e1279-ed72-4fa7-9e3e-f02c05c673fe.png)
 ![image](https://user-images.githubusercontent.com/93654396/179393292-935edabb-7020-410f-a3e2-c915c553f162.png)
 ![image](https://user-images.githubusercontent.com/93654396/179393301-a59240f5-cfd3-4cdf-b8a3-d10331d2d1c0.png)
