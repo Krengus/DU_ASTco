@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/93654396/180024800-ab53114a-70a1-4d4a-82f1-5caacfd95e20.png)
-
+![image](https://user-images.githubusercontent.com/93654396/180024922-cc175925-a036-4155-b52d-24ec962103f9.png)
 ### Installation:
 
 place prog board
