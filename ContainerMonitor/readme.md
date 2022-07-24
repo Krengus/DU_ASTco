@@ -11,7 +11,10 @@ link screen
 
 paste code from ContainerMonitor.json
 
-
+Limitations:
+16 images max per screen (NQ limit)
+about 250 image links in screens content
+about 600-700 total items in screens content
 
 
 Thanks to WarrenOne for some of his code that i reused: https://github.com/WarrenOne/Ore-Pricer
