@@ -3,15 +3,25 @@
 ![image](https://user-images.githubusercontent.com/93654396/180708205-4ebdb579-8ff7-4e79-9aeb-9cd15d0c802c.png)
 
 
-### Installation:
+## Installation:
 - place prog board
 - link hub first <--important
 - link screen
 - paste code from ContainerMonitor.json
 
-### Limitations
+### Options
+- ListView: 16 items per page with small icons
+- IconView: 8 items per page with big icons
+- NoIcons: script will automatically switch to this mode if there is more than 250 items in container
+- OreValue: will calculate and display the value of raw ores in container
+
+### Screens
+
+### Signs
+
+## Limitations
  - 16 images max per screen (NQ limit)
  - 250 items in container: will switch to large container mode (icons hidden)
  - above 600-700 items in container will throw a script error
 
-Thanks to WarrenOne for some of his code that i reused: https://github.com/WarrenOne/Ore-Pricer
+Thanks to WarrenOne for the ore calculation part which i reused from there: https://github.com/WarrenOne/Ore-Pricer
