@@ -11,7 +11,11 @@
 
 ### Options
 - ListView: 16 items per page with small icons
+![image](https://user-images.githubusercontent.com/93654396/181996240-738cc502-63b0-4335-b2fd-27c5a42c8abe.png)
+
 - IconView: 8 items per page with big icons
+![image](https://user-images.githubusercontent.com/93654396/181996282-e34e88c4-711b-4573-b89d-404b4304e143.png)
+
 - NoIcons: script will automatically switch to this mode if there is more than 250 items in container
 - OreValue: will calculate and display the value of raw ores in container
 
