@@ -19,9 +19,8 @@
 ### Sign M: 21 items per page with no icons
 ![image](https://user-images.githubusercontent.com/93654396/182011788-ad8d4aee-a505-47e3-91e6-5b931c03107b.png)
 
-## Limitations
+## Current Limitations
  - 16 images max per screen (NQ limit)
- - 250 items in container: will switch to large container mode (icons hidden)
  - above 600-700 items in container will throw a script error
 
 Thanks to WarrenOne for the ore calculation part which i reused from there: https://github.com/WarrenOne/Ore-Pricer
