@@ -1,7 +1,4 @@
-![02](https://user-images.githubusercontent.com/93654396/180024922-cc175925-a036-4155-b52d-24ec962103f9.png)
-![image](https://user-images.githubusercontent.com/93654396/180025159-5d57c381-7c98-49d8-82db-3d721b0d9d16.png)
-![image](https://user-images.githubusercontent.com/93654396/180708205-4ebdb579-8ff7-4e79-9aeb-9cd15d0c802c.png)
-
+# ContainerMonitor
 
 ## Installation:
 - place prog board
@@ -9,7 +6,7 @@
 - link screen
 - paste code from ContainerMonitor.json
 
-### Options
+### Screen Modes
 - ListView: 16 items per page with small icons
 ![image](https://user-images.githubusercontent.com/93654396/181996240-738cc502-63b0-4335-b2fd-27c5a42c8abe.png)
 
@@ -19,11 +16,9 @@
 - NoIcons: script will automatically switch to this mode if there is more than 250 items in container
 ![image](https://user-images.githubusercontent.com/93654396/182011638-7531a212-f505-46c2-8802-84ea13ba06b4.png)
 
-- OreValue: will calculate and display the value of raw ores in container
+- Sign M: 21 items per page with no icons
+![image](https://user-images.githubusercontent.com/93654396/182011788-ad8d4aee-a505-47e3-91e6-5b931c03107b.png)
 
-### Screens
-
-### Signs
 
 ## Limitations
  - 16 images max per screen (NQ limit)
