@@ -17,8 +17,7 @@
 ![image](https://user-images.githubusercontent.com/93654396/182011638-7531a212-f505-46c2-8802-84ea13ba06b4.png)
 
 - Sign M: 21 items per page with no icons
-![image](https://user-images.githubusercontent.com/93654396/182011788-ad8d4aee-a505-47e3-91e6-5b931c03107b.png)
-
+ ![image](https://user-images.githubusercontent.com/93654396/182011788-ad8d4aee-a505-47e3-91e6-5b931c03107b.png)
 
 ## Limitations
  - 16 images max per screen (NQ limit)
