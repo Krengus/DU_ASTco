@@ -17,6 +17,8 @@
 ![image](https://user-images.githubusercontent.com/93654396/181996282-e34e88c4-711b-4573-b89d-404b4304e143.png)
 
 - NoIcons: script will automatically switch to this mode if there is more than 250 items in container
+![image](https://user-images.githubusercontent.com/93654396/182011638-7531a212-f505-46c2-8802-84ea13ba06b4.png)
+
 - OreValue: will calculate and display the value of raw ores in container
 
 ### Screens
