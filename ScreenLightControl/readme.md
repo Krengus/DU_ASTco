@@ -24,3 +24,5 @@ First screen connected on master board will be used as control screen. All other
 - link progamming board to databank, screens and lights
 - paste code from ScreenLightControl.json
 - edit parameters and untick Master_Board
+
+Thanks to RyanPryde for help
