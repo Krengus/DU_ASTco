@@ -4,7 +4,6 @@
 
 ## INSTALLATION
 Link core, databank, screen(s) and hub(s) in any order.
-Configure max capacity for hubs linked
 
 ## DESCRIPTION
 Various ship monitors and infos gathered in a single script. Uses LUA screen API.
