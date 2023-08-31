@@ -1,6 +1,6 @@
 
 # SHIP INFO
-![image](https://github.com/Krengus/DU_ASTco/assets/93654396/2896b602-391c-4361-a918-d5e55fb9d7d6)
+![image](https://github.com/Krengus/DU_ASTco/assets/93654396/f5942dd9-d864-43f1-9010-5adca121ee92)
 
 ## INSTALLATION
 Link core, databank, screen(s) and hub(s) in any order.
